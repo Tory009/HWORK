@@ -34,7 +34,7 @@ body {
   padding: 140px 0;
 }
 .main__program {
-  margin-bottom: 145px;
+  padding-bottom: 145px;
 }
 .container {
   max-width: 1310px;
